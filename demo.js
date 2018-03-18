@@ -1,5 +1,5 @@
 import Validator from 'params-verifier';
-// const Validator = require('params-verifier');
+// const Validator = require('params-verifier').default;
 
 const query = {
     page: 0,
